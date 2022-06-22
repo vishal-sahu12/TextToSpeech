@@ -7,6 +7,12 @@
     android:padding="16dp"
     android:orientation="vertical"
     tools:context=".MainActivity">
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/kaholas"
+        android:scaleType="center"/>
     <LinearLayout
         android:layout_marginTop="29dp"
         android:layout_width="match_parent"
